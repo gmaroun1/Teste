@@ -34,7 +34,7 @@ img {
 }
 
 .footer {
-    background-color: rgb(101, 101, 101);
+    background-color: red;
     color: white;
     flex-wrap: wrap;
     justify-content: space-between;
